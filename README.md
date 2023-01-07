@@ -17,8 +17,6 @@
 
 ![](Image_1.png)
 
-### Analysis
-
 Urban cities have the highest number of rides (68.4%). On the contrary, rural cities have the lowest number (5.2%). Likewise, urban cities have the highest number of drivers coompared to rural cities. However, the average fare per ride and per driver is higher in rural cities compared to suburban and urban cities. 
 
 - Sum of the fares for each week
