@@ -33,6 +33,8 @@ This multiple-line chart provides information on fare fluctuations by city for t
 
 ## Summary
 
+- Urban cities provide the highest ridesharing revenue. However, urban drivers have more competition in the area, which leads to the lowest earnings per driver and the lowest fare per ride.
+- Rural drivers have the highest earnings of all cities. Likewise, rural areas have the highest average fare per ride.
 
 
 
