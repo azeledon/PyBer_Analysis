@@ -10,6 +10,13 @@
 - Deliverable 2: A multiple-line chart of total fares for each city type
 - Deliverable 3: A written report for the PyBer analysis (README.md)
 
+## Resources
+
+1. Python version 3.6.8
+2. Jupiter Notebook 6.5.2
+3. Anaconda 2.3.1
+4. PythonData enviroment
+5. Matplotlib
 
 ## Results
 
